@@ -1,3 +1,5 @@
+
+第一步:
 # 安装 git 命令行
 sudo yum install git -y
 # 克隆本项目代码
@@ -6,9 +8,3 @@ git clone https://github.com/choerodon/kubeadm-ha.git
 cd kubeadm-ha
 # 安装 ansible 环境
 sudo ./ansible/install.sh
-
-
-
-
-helm repo add c7n https://openchart.choerodon.com.cn/choerodon/c7n/
-helm repo update
