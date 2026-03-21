@@ -8,3 +8,6 @@ git clone https://github.com/choerodon/kubeadm-ha.git
 cd kubeadm-ha
 # 安装 ansible 环境
 sudo ./ansible/install.sh
+
+第二步：
+sudo yum install vsftpd
