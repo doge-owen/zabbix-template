@@ -11,3 +11,9 @@ sudo ./ansible/install.sh
 
 第二步：
 sudo yum install vsftpd
+
+
+
+
+第四步:
+Sudu yum install vim
