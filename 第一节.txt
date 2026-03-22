@@ -13,6 +13,8 @@ sudo ./ansible/install.sh
 sudo yum install vsftpd
 
 
+第三步:
+Sudo yum install nginx
 
 
 第四步:
