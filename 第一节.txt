@@ -16,7 +16,4 @@ sudo yum install vsftpd
 pring (abc)
 
 
-main
-feature
-github
 version
