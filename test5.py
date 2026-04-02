@@ -3,7 +3,7 @@
 def test():
     pass
 
-print("第一部分")
-print("第二部分")
-print("第七部分")
-print("第八部分")
+print("第1部分")
+print("第2部分")
+print("第7部分")
+print("第8部分")
