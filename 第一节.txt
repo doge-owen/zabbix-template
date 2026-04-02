@@ -15,5 +15,6 @@ sudo yum install vsftpd
 第三步:
 pring (abc)
 
-
+version
+github
 version
