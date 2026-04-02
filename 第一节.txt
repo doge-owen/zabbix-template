@@ -11,3 +11,6 @@ sudo ./ansible/install.sh
 
 第二步：
 sudo yum install vsftpd
+
+第三步:
+pring (abc)
